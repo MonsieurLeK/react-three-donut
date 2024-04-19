@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+#canvas-container {
+  background-color: black;
+  height: 100dvh;
+  width: 100dvw;
+}
